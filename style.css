@@ -1,0 +1,50 @@
+h1{
+    border: 2px solid red;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+span{
+    background-color: yellow;
+}
+em{
+    color: red;
+}
+h2{
+    color: green;
+}
+h3{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.yashil{
+    color: green;
+}
+.kok{
+    background-color: rgb(103, 103, 232);
+    color: white;
+}
+h4{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.siyohrang{
+    background-color: green;
+    color: white;
+}
+.jigarrang{
+    background-color: blue;
+    color: white;
+}
+.qizil{
+    background-color: red;
+    color: white;
+}
+.qora{
+    background-color: black;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+}
